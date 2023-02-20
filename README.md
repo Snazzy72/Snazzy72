@@ -82,7 +82,7 @@
 
 <div align='center'>
 
-## <b>Than you for reading...✨</b>
+## <b>Thank you for reading...✨</b>
 
 </div>
 <br>
