@@ -11,7 +11,7 @@
 
 
 	
-## <picture><img src = "https://raw.githubusercontent.com/Snazzy72/Snazzy72/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/Snazzy72/Snazzy72/blob/main/assets/mdImages/about_me.gif?raw=true"></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/Snazzy72/Snazzy72/blob/main/assets/mdImages/Right_Side.gif?raw=true"></picture>
 
