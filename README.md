@@ -52,7 +52,7 @@
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![PlanetScale]((https://img.shields.io/badge/PlanetScale%20-%23F7DF1E.svg?style=for-the-badge&logo=planetscale&logoColor=black&color=blue))
+    ![PlanetScale](https://img.shields.io/badge/PlanetScale%20-%23F7DF1E.svg?style=for-the-badge&logo=planetscale&logoColor=black&color=blue)
     
 <br>
 
