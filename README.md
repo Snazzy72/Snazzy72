@@ -36,6 +36,7 @@
     ![C#](https://img.shields.io/badge/Csharp%20-%232370ED.svg?style=for-the-badge&logo=csharp&logoColor=white)
     ![Rust](https://img.shields.io/badge/Rust%20-%232370ED.svg?style=for-the-badge&logo=rust&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![TypeScript](https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?style=for-the-badge&logo=typescript&logoColor=black&color=blue)
 
 <br>   
     
