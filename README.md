@@ -46,6 +46,7 @@
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![TypeScript](https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?style=for-the-badge&logo=typescript&logoColor=black&color=blue)
    ![TailwindCSS](https://img.shields.io/badge/Tailwind%20-%23F7DF1E.svg?style=for-the-badge&logo=tailwindcss&logoColor=black&color=blue)
+   ![React](https://img.shields.io/badge/React%20-%23F7DF1E.svg?style=for-the-badge&logo=react&logoColor=black&color=blue)
 
 <br>
 
